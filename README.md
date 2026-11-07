@@ -2,7 +2,7 @@
 
 Сам делаю сайты, Telegram-ботов и автоматизацию: от интерфейса и логики до интеграций и инструкции запуска.
 
-[Посмотреть работы и потыкать демо](https://max0209-web.github.io/developer-portfolio/) · [Написать в Telegram](https://t.me/VCVCRVD)
+[Посмотреть работы и потыкать демо](https://max0209-web.github.io/developer-portfolio/) · [Написать менеджеру в Telegram](https://t.me/minkinov)
 
 [![Портфолио](https://raw.githubusercontent.com/Max0209-web/developer-portfolio/main/media/01-portfolio.png)](https://max0209-web.github.io/developer-portfolio/)
 
@@ -19,7 +19,7 @@
 ## Демонстрационные продукты
 
 - [Мой дом](https://max0209-web.github.io/developer-portfolio/products/nord.html) — Каталог с поиском, остатками и выбором отделки. Корзина пересчитывает цену, доставку и сохраняет подтверждение заказа.
-- [Студия](https://max0209-web.github.io/developer-portfolio/products/kadr.html) — Выбор зала, даты и длительности. Календарь исключает пересечения, а бронь можно отменить в личном списке.
+- [Студия](https://max0209-web.github.io/developer-portfolio/products/kadr.html) — Интерактивный 3D-тур и план зала. После осмотра можно выбрать свободное время, оформить или отменить бронь.
 
 Заказы и брони хранятся в браузере. Платежи и отправка заявок отключены.
 
@@ -35,4 +35,4 @@ Python, aiogram, Django REST Framework, JavaScript, React, PostgreSQL, Redis, SQ
 - [Smart Vision](https://github.com/Max0209-web/smart-vision-faceid) — прототип распознавания лиц с веб-интерфейсом.
 - [Telegram Business Bot](https://github.com/Max0209-web/TelegramBot1) — обработка событий сообщений, Mini App и подписки.
 
-Есть задача или идея? [Пишите: @VCVCRVD](https://t.me/VCVCRVD).
+Заявки принимает мой менеджер [@minkinov](https://t.me/minkinov).
