@@ -2,7 +2,7 @@
 
 Сам делаю сайты, Telegram-ботов и автоматизацию: от интерфейса и логики до интеграций и инструкции запуска.
 
-[Посмотреть работы и потыкать демо](https://max0209-web.github.io/developer-portfolio/) · [Написать менеджеру в Telegram](https://t.me/minkinov)
+[Посмотреть работы и потыкать демо](https://max0209-web.github.io/developer-portfolio/) · [Написать менеджеру в Telegram](https://t.me/Xhruzz)
 
 [![Портфолио](https://raw.githubusercontent.com/Max0209-web/developer-portfolio/main/media/01-portfolio.png)](https://max0209-web.github.io/developer-portfolio/)
 
@@ -35,4 +35,4 @@ Python, aiogram, Django REST Framework, JavaScript, React, PostgreSQL, Redis, SQ
 - [Smart Vision](https://github.com/Max0209-web/smart-vision-faceid) — прототип распознавания лиц с веб-интерфейсом.
 - [Telegram Business Bot](https://github.com/Max0209-web/TelegramBot1) — обработка событий сообщений, Mini App и подписки.
 
-Заявки принимает мой менеджер [@minkinov](https://t.me/minkinov).
+Заявки принимает мой менеджер [@Xhruzz](https://t.me/Xhruzz).
